@@ -1,6 +1,8 @@
 # C3PO
 C3PO: Large-Scale Study Of Covert Monitoring of C&C Servers via Over-Permissioned Protocol Infiltration
 
+*Coming soon*
+
 ## Foreword
 Before working with C3PO please make sure to read the 
 [C3PO paper](https://cyfi.ece.gatech.edu/publications/) 
