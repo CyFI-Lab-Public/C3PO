@@ -3,7 +3,7 @@ C3PO: Large-Scale Study Of Covert Monitoring of C&C Servers via Over-Permissione
 
 ## Foreword
 Before working with C3PO please make sure to read the 
-[C3PO paper](https://fullerj.github.io/publications/ccs21) 
+[C3PO paper](https://fullerj.github.io/papers/ccs21.pdf) 
 as it will help with understanding and extending the tool it if necessary!
 Keep in mind that this tool is still not perfect, errors are not uncommon and knowing how to work with angr is essential.
 
